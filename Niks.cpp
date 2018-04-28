@@ -4,7 +4,7 @@ void inputGift(char p[],int g[])
 {
 	for(int z=0;z<10;z++)
 	{
-		printf("Enter the Number of gifts having with person %c :  \n",p[z]);
+		printf("Enter  Number of gifts having with person %c :  \n",p[z]);
 		scanf("%d",&g[z]);
 	}
 }
