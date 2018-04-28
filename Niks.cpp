@@ -23,6 +23,7 @@ void SortingQueue(int gifts1[],char person1[]);
 int main()
 {
 	int gifts[10];
+	
     char person[11]= {'a','b','c','d','e','f','g','h','i','j'};
     
     inputGift(person,gifts);
