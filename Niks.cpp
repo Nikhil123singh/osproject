@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include<conio.h>
 void inputGift(char p[],int g[])
 {
 	for(int z=0;z<10;z++)
@@ -52,4 +52,5 @@ void SortingQueue(int gifts1[],char person1[])
 			}
 		}
 	}
+	getch();
 }
